@@ -10,7 +10,7 @@ This application allows users to translate spoken text from one language to anot
 
  
 ## Terminal:
-![run screen](https://raw.githubusercontent.com/aswinms926/Language_translator/refs/heads/main/Output/Screenshot%202025-01-13%20123812.png)
-![run screen](https://raw.githubusercontent.com/aswinms926/Language_translator/refs/heads/main/Output/Screenshot%202025-01-13%20123750.png)
-![run screen](https://raw.githubusercontent.com/aswinms926/Language_translator/refs/heads/main/Output/Screenshot%202025-01-13%20123922.png)
+![run screen]( https://raw.githubusercontent.com/aswinms926/Language_translator/refs/heads/main/Output/Screenshot%202025-01-13%20123812.png?token=GHSAT0AAAAAAC5HO3JY5723ANASIBOJOZW6Z4REWXQ)
+![run screen]( https://raw.githubusercontent.com/aswinms926/Language_translator/refs/heads/main/Output/Screenshot%202025-01-13%20123750.png?token=GHSAT0AAAAAAC5HO3JYEXNZ4TSLNCBT6QRCZ4REWQQ)
+![run screen]( https://raw.githubusercontent.com/aswinms926/Language_translator/refs/heads/main/Output/Screenshot%202025-01-13%20123922.png?token=GHSAT0AAAAAAC5HO3JYYSMGFV6J2YZBSLK4Z4REXAA)
 
